@@ -1,0 +1,39 @@
+# =========================
+# Visual Studio / SSIS
+# =========================
+*.user
+*.suo
+*.cache
+*.log
+
+bin/
+obj/
+.vs/
+
+# SSIS temporary / build files
+*.tmp
+*.bak
+*.dtsx.log
+
+# =========================
+# SSAS (Analysis Services)
+# =========================
+*.dwproj.user
+*.asdatabase.log
+
+# =========================
+# Power BI
+# =========================
+*.pbix.user
+
+# =========================
+# Windows / system files
+# =========================
+Thumbs.db
+.DS_Store
+
+# =========================
+# Sensitive data (IMPORTANT)
+# =========================
+*.pwd
+*.password
