@@ -6,6 +6,7 @@
 *.cache
 *.log
 *.html
+*.htm
 
 bin/
 obj/
