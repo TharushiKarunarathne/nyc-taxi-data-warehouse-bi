@@ -1,3 +1,5 @@
+USE [IT23679726]
+GO
 CREATE TABLE SrcPaymentType (
     PaymentID INT PRIMARY KEY,
     PaymentName VARCHAR(50) NOT NULL

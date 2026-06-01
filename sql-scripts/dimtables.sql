@@ -1,3 +1,5 @@
+USE [TAXI_TRIP_DATA_DW]
+GO
 CREATE TABLE DimDate (
     DateKey INT PRIMARY KEY,
     FullDate DATE NOT NULL,
